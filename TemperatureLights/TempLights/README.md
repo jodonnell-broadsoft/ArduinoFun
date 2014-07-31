@@ -2,6 +2,7 @@ This file will light three LEDs based on the humidity on a DHT22 Sensor
 
 http://garagelab.com/profiles/blogs/tutorial-humidity-and-temperature-sensor-with-arduino
 
+```
 On Sensor:
 
 Pin 1 - 5V
@@ -15,3 +16,4 @@ Blue - Pin 13
 Green - Pin 12
 
 Other sides of LED are connected to ground
+```
